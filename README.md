@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen&label=Profile%20views&color=0e75b6&style=flat" alt="praveen" /> </p>
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **Python & Java**
 
-- 🌱 I’m currently learning **java**
+<!--- 🌱 I’m currently learning java-->
 
 - 📫 How to reach me **praveenchidambaram2@gmail.com**
 
-- ⚡ Fun fact! **I am a programmer **
+- ⚡ Fun fact! I am a programmer 
 
 
 <p align="left">
