@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm PRAVEEN CHIDAMABRAM</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe33317775357ade2b15c2ca6fc36c79437a089a1d2c15cc52f147680a3fe8a4/68747470733a2f2f696b2e696d6167656b69742e696f2f647265736d612f447265736d615f4c6962726172792f73656e696f722d736f6674776172652d656e67696e6565725f57793832745951796d2e676966">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxZGp4ZzR1NHd1NGo4YWRoYXplY3d3enphbXBiZTZ4eHJpYzFlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen&label=Profile%20views&color=0e75b6&style=flat" alt="praveen" /> </p>
 
