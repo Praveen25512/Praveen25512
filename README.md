@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **praveenchidambaram2@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact! **I am a programmer **
 
 
 <p align="left">
